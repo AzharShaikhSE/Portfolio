@@ -1,0 +1,57 @@
+# Node.js and npm
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Built files
+/dist/
+/build/
+/out/
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Production environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Caching and local files
+.cache/
+.vscode/
+.DS_Store
+*.log
+
+# Testing and coverage reports
+/coverage/
+/.nyc_output/
+
+# Yarn 2
+.yarn/
+.yarnrc.yml
+.yarnrc.yml.sig
+.yarn-plugins/
+.yarn-integrity
+.yarn-metadata.json
+.yarnignore
+.yarnclean
+
+# ESLint
+/.eslintcache
+/.eslintoutput
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+Thumbs.db
+.DS_Store
